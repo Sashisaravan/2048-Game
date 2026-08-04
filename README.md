@@ -1,16 +1,28 @@
-# React + Vite
+# 🎮 2048 Game
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and interactive **2048 Game** built using **React.js** and **Material UI**.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- 🎯 Classic 2048 gameplay
+- ⌨️ Keyboard arrow controls
+- 🔄 Restart game option
+- 🏆 Win and Game Over detection
+- 🔊 Game sound effects
+- 📱 Responsive UI
+- 🎨 Clean and modern design
 
-## React Compiler
+## 🛠️ Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React.js
+- JavaScript
+- Material UI (MUI)
+- Vite
+- CSS
 
-## Expanding the ESLint configuration
+## 📸 Screenshots
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<img width="1600" height="686" alt="image" src="https://github.com/user-attachments/assets/1ae149ca-3494-4122-856c-89bdc9d71aba" />
+
+
+<img width="1600" height="665" alt="image" src="https://github.com/user-attachments/assets/1acb91f5-c3ff-4002-a8a4-b9ab7f5bd1a7" />
