@@ -20,6 +20,28 @@ A simple and interactive **2048 Game** built using **React.js** and **Material U
 - Vite
 - CSS
 
+
+- ## 📂 Project Structure
+- 
+2048-Game/
+│
+├── public/
+│
+├── src/
+│   ├── components/
+│   │   ├── 2048_MainGrid.jsx
+│   │   └── GameLogic.jsx
+│   │
+│   ├── styles/
+│   │   └── GameMuiStyles.js
+│   │
+│   ├── App.jsx
+│   └── main.jsx
+│
+├── package.json
+├── vite.config.js
+└── README.md
+
 ## 📸 Screenshots
 
 <img width="1600" height="686" alt="image" src="https://github.com/user-attachments/assets/1ae149ca-3494-4122-856c-89bdc9d71aba" />
