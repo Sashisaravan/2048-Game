@@ -21,8 +21,9 @@ A simple and interactive **2048 Game** built using **React.js** and **Material U
 - CSS
 
 
-- ## 📂 Project Structure
-- 
+## 📂 Project Structure
+
+```text
 2048-Game/
 │
 ├── public/
@@ -41,6 +42,8 @@ A simple and interactive **2048 Game** built using **React.js** and **Material U
 ├── package.json
 ├── vite.config.js
 └── README.md
+```
+
 
 ## 📸 Screenshots
 
