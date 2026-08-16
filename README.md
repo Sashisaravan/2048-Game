@@ -8,7 +8,6 @@ A simple and interactive **2048 Game** built using **React.js** and **Material U
 - ⌨️ Keyboard arrow controls
 - 🔄 Restart game option
 - 🏆 Win and Game Over detection
-- 🔊 Game sound effects
 - 📱 Responsive UI
 - 🎨 Clean and modern design
 
